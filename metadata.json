@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Astra",
+  "description": "Advanced Smart Task \u0026 Research Assistant with Long-Term Memory and v4.0 Computer Control Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
